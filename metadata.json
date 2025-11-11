@@ -1,0 +1,5 @@
+{
+  "name": "Font Previewer",
+  "description": "An application to upload a folder of TTF or OTF fonts, browse through them with keyboard navigation, and preview them with custom text. The app features an orange-themed, modern UI.",
+  "requestFramePermissions": []
+}
